@@ -16,7 +16,7 @@ Synesthesia
 A toolkit for enhancing synesthesia.
 
 * Free software: ISC license
-* Documentation: https://synesthesia.readthedocs.org.
+* Documentation: https://synesthesia.readthedocs.io.
 
 Features
 --------
